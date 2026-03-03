@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+** OpenToWork | Applied AI Engineer | Cloud | DevOps | Full Stack | Financial Solutions | Vibe Coder**
+
+Multi-domain engineer experienced in Cloud (AWS/Azure/GCP), DevOps (CI/CD, Docker, Kubernetes), AI/ML systems, and Full Stack development (Frontend + Backend). Skilled in designing scalable architectures, automating deployments, and delivering intelligent applications end-to-end. Open to challenging engineering roles across Cloud, DevOps, AI, or Full Stack.
+- Experience in Retail, Fintech, banking industries
+- Building practical AI, specializing in LLM applications & RAG for the financial industry
+- 2+ years of experience driving AI productization
